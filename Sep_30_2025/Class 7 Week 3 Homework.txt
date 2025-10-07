@@ -1,0 +1,25 @@
+Class 7 Homework Assignment VPC Subnet
+Deliverable: You must define your own Network range with 3 public Subnets and 2 private subnets. Must include subnet masks
+
+Public:
+Network: 10.32.1.0/24
+IP: 10.32.1.6
+Mask: 255.255.255.0
+Public:
+Network: 10.32.2.0/24
+IP: 10.32.2.7
+Mask: 255.255.255.0
+Public:
+Network: 10.32.3.0/24
+IP: 10.32.3.8
+Mask: 255.255.255.0
+
+Private:
+Network: 10.32.11.0/24
+IP: 10.32.11.11
+Mask: 255.255.255.0
+Private:
+Network: 10.32.12.0.0/24
+IP: 10.32.12.12
+Mask: 255.255.255.0
+

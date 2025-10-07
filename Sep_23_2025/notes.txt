@@ -1,0 +1,35 @@
+Linux  basic commands:
+cd (change directory)
+ls (list files in current directory)
+clear (clears the screen)
+touch example.txt (creates a new file called example.txt)
+pwd (print working directory)
+cd .. (moves backwards one directory)
+history (lists commands recently ran from the terminal)
+mkdir Theo (Creates a directory named Theo. Keep in mind that for Max and Linux it is case sensitive)
+
+
+create a new repository on the command line
+
+echo "# 9-23-2026_class_7" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Nightwolf197676/9-23-2026_class_7.git
+git push -u origin main
+
+
+push an existing repository from the command line
+                                                      
+
+git remote add origin https://github.com/Nightwolf197676/9-23-2026_class_7.git
+git branch -M main
+git push -u origin main
+
+git config --global user.name “Your Full Name”
+git config --gloabal user.name “catch it on the rewind theo (rob o.)”
+
+git config --global user.email "larry
+
+git status to list files in github
